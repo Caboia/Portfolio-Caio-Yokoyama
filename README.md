@@ -45,8 +45,13 @@
   <a href="https://linkedin.com/in/caioyokoyama" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <h2> :desktop_computer:Projetos:</h2>
+
+<details>
+<summary>SOS API</summary>
 <h3>Projeto do primeiro semestre: SOS API</h3>
 Repositório: https://github.com/apiFatec/SOS_API
+<br></br>
+<strong>Cliente:</strong> FATEC São José dos Campos
 <hr>
 <h3> Desafio proposto: </h3> 
 <p>- Uma maneira de identificar os computadores com defeito, nos laboratórios da FATEC e assim o suporte ficar ciente de qual máquina, em qual sala e qual andar ela está.</p>
@@ -69,3 +74,4 @@ Repositório: https://github.com/apiFatec/SOS_API
   <li>Gestão de equipe como Scrum Master</li>
   <li>Comunicação de forma clara e amigável com toda equipe</li>
 </ul>
+</details>
