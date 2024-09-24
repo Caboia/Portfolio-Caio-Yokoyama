@@ -65,9 +65,10 @@ Repositório: https://github.com/apiFatec/SOS_API
 <hr>
 <h3>Hard Skills:</h3>
 <ul>
-  <li>Html</li>
-  <li>Css</li>
-  <li>Bootstrap</li>
+  <li>Html: Tecnologia base, fundamental para o desenvolvimento do frontend, nela a gente fez a estrutura do site e como ele iria interagir com o backend.</li>
+  <li>Flask: Framwork do Python que foi utilizado para trazer as funcionalidades, como o banco de dados, a autenticação, entre outras.</li>
+  <li>Css: O css foi utilizado para a estilização da nossa aplicação.</li>
+  <li>Bootstrap: Framework utilizado para a estilização e utilizamos alguns componentes para facilitar a montagem da aplicação.</li>
 </ul>
 <h3>Soft Skills:</h3>
 <ul>
