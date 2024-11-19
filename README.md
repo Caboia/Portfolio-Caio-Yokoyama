@@ -47,8 +47,7 @@
 
 <h2> :desktop_computer:Projetos:</h2>
 
-<details>
-<summary>API 1° Semestre</summary>
+<h2>API 1° Semestre</h2>
 <h3>Projeto do primeiro semestre: SOS API</h3>
 Repositório: https://github.com/apiFatec/SOS_API
 <br></br>
@@ -57,14 +56,14 @@ Repositório: https://github.com/apiFatec/SOS_API
 <strong>Professores responsáveis:</strong> M2: Jean Carlos P2: Antonio Egydio
 <hr>
 <h3> Desafio proposto: </h3> 
-<p>- Uma maneira de identificar os computadores com defeito, nos laboratórios da FATEC e assim o suporte ficar ciente de qual máquina, em qual sala e qual andar ela está.</p>
+<p>- A FATEC estava com o problema em gerenciar como seria o suporte das máquinas com defeito nos laboratórios, uma vez onde não é possível mapear tudo em tempo real. Nosso desafio foi criar uma maneira de identificar os computadores com defeito, nos laboratórios da FATEC e assim o suporte ficar ciente de qual máquina, em qual sala e qual andar ela está.</p>
 
 <h3>Solução apresentada:</h3>
 <p>- Criar um sistema de registro para os computadores com defeito dos laboratórios da Fatec, onde o sistema identifique as máquinas com problema e comunique o suporte da Fatec.</p>
 <hr>
 <h3>Minhas contribuições:</h3>
 <p>- Nesse projeto, fui responsável por ser o Scrum Master da Equipe, ou seja, fazer todo o gerenciamento de tração e andamento do projeto, além disso acompanhava de perto o desempenho individual de cada membro do time, também focado em retirar quaisquer impeditivos durante o processo de desenvolvimento.</p>
-<p>- Em quesito desenvolvimento, também cuidei de uma parte da prototipação e do desenvolvimento de grande parte das telas do front.</p>
+<p>- Em quesito desenvolvimento, também cuidei de uma parte da prototipação e do desenvolvimento da tela de navegação das salas, tela home e modal do cadastro do computador.</p>
 <hr>
 <h3>Hard Skills:</h3>
 <ul>
@@ -81,7 +80,7 @@ Repositório: https://github.com/apiFatec/SOS_API
 <ul>
   <li>Gestão de equipe como Scrum Master: Durante meu período como Scrum Master, utilizei da comunicação e observação, para auxiliar todos meus colegas no desenvolvimento do projeto, perguntando diariámente como estava o andamento das tarefas e se havia algum impedimento.</li>
 </ul>
-</details>
+
 
 <details>
 <summary>API 2° Semestre</summary>
@@ -93,7 +92,7 @@ Repositório: https://github.com/apiFatec/API-2-Semestre-Bertoti
 <strong>Professores responsáveis:</strong> M2: Cláudio Etelvino P2: Giuliano Bertoti
 <hr>
 <h3> Desafio proposto: </h3> 
-<p>- O API do segundo semestre de Análise e Desenvolvimento de Sistemas é voltado para a criação de um sistema java desktop, cujo propósito é facilitar o controle de rendimento do corpo discente de um colégio.</p>
+<p>- Nessa API o cliente tinha um problema de gestão de notas dos alunos, onde o professor precisava fazer tudo de forma manual, a coleta das notas, o envio das atividades, entre outros. O desafio proposto foi a criação de um sistema java desktop, cujo propósito é facilitar o controle de rendimento do corpo discente de um colégio.</p>
 
 <h3>Solução apresentada:</h3>
 <p>- Sabe-se que o controle de rendimento de qualquer objeto é uma tarefa complexa. Sob essa ótica, propomos a criação de uma aplicação de fácil consulta, intuitiva e efetiva. À vista disso, o projeto abriga um sistema de navegação lateral, dashboard, gerenciamento de notas, atividades e alunos da instituição.
@@ -101,7 +100,7 @@ Repositório: https://github.com/apiFatec/API-2-Semestre-Bertoti
 <hr>
 <h3>Minhas contribuições:</h3>
 <p>- Nesse projeto, fui responsável por ser o Product Owner, ou seja, estava responsável pela definição dos requisitos do produto, também nos pontos de alinhamento com o cliente.</p>
-<p>- Em quesito desenvolvimento, também cuidei da parte da prototipação e do desenvolvimento de algumas telas do front.</p>
+<p>- Em quesito desenvolvimento, também cuidei da parte da prototipação do projeto e de alguns componentes do front, como a sidebar da aplicação e a tela de calendário. </p>
 <hr>
 <h3>Hard Skills:</h3>
 <ul>
@@ -123,12 +122,12 @@ Repositório: https://github.com/apiFatec/API-2-Semestre-Bertoti
 <h3>Projeto do terceiro semestre: API 3 - Ionic Health</h3>
 Repositório: https://github.com/apiFatec/API-3-Semestre-Ionic
 <br></br>
-<strong>Cliente:</strong> FATEC São José dos Campos
+<strong>Cliente:</strong> Ionic Health
 <br></br>
 <strong>Professores responsáveis:</strong> M2: Cláudio Etelvino P2: Fernando Masanori
 <hr>
 <h3> Desafio proposto: </h3> 
-<p>- O API do terceiro semestre do curso de Análise e Desenvolvimento de Sistemas se dedica à construção de uma sofisticada plataforma web que permitirá à Ionic Health gerenciar, monitorar e documentar meticulosamente cada etapa de seus processos regulatórios essenciais.</p>
+<p>- Nesse semestre a empresa parceira Ionic Health chegou com um problema de gerenciamento e mapeamento de irregularidades em detrimento dos processos regulatórios da empresa. Dito isso, o API do terceiro semestre do curso de Análise e Desenvolvimento de Sistemas se dedica à construção de uma sofisticada plataforma web que permitirá à Ionic Health gerenciar, monitorar e documentar meticulosamente cada etapa de seus processos regulatórios essenciais.</p>
 
 <h3>Solução apresentada:</h3>
 <p>- Desenvolver uma interface de usuário intuitiva e amigável para permitir que os usuários naveguem facilmente pela plataforma e acessem informações relevantes. Implementar um design responsivo para garantir que a plataforma seja acessível em diferentes dispositivos (desktop, tablet, smartphone).
@@ -152,7 +151,7 @@ Repositório: https://github.com/apiFatec/API-3-Semestre-Ionic
 </ul>
 <h3>Soft Skills:</h3>
 <ul>
-  <li>Comunicação clara e objetiva, durante todo o projeto, me manti comunicativo, sempre avisando as minhas dificuldades e entregas.</li>
+  <li>Comunicação clara e objetiva, durante todo o projeto, me manti comunicativo, sempre avisando as minhas dificuldades e entregas. Durante essa API também houve um pequeno problema onde um membro do grupo estava com baixo rendimento, a todo momento tentei apoia-lo para que ele pudesse realizar suas tarefas, mas chegou a um ponto onde decidimos demiti-lo do grupo.</li>
 </ul>
 </details>
 
@@ -161,12 +160,12 @@ Repositório: https://github.com/apiFatec/API-3-Semestre-Ionic
 <h3>Projeto do terceiro semestre: API 4 - SIATT</h3>
 Repositório: https://github.com/MirageGroup/API_MirageGroup_4sem
 <br></br>
-<strong>Cliente:</strong> FATEC São José dos Campos
+<strong>Cliente:</strong> SIATT
 <br></br>
 <strong>Professores responsáveis:</strong> M2: Fabiano Sabha P2: Juliana Pasquini
 <hr>
 <h3> Desafio proposto: </h3> 
-<p>- O desafio proposto envolve o desenvolvimento de um portal capaz de centralizar informações de diferentes fontes a fim de manter um banco de dados atualizado capaz de agendar reuniões de diferentes categorias e em diferentes níveis de permissão, automatizando o processo e reduzindo o tempo gasto na atividade, tanto durante o agendamento quanto durante a preparação da reunião, apresentando inclusive um formulário pré-preenchido para as atas.</p>
+<p>- A empresa SIATT estava com uma grande dificuldade de gerencias as agendas e registros das mesmas, eles não conseguiam encontrar uma forma fácil de acelerar o processo de marcar reuniões e formalizar ATAs. Visto isso, o desafio proposto envolve o desenvolvimento de um portal capaz de centralizar informações de diferentes fontes a fim de manter um banco de dados atualizado capaz de agendar reuniões de diferentes categorias e em diferentes níveis de permissão, automatizando o processo e reduzindo o tempo gasto na atividade, tanto durante o agendamento quanto durante a preparação da reunião, apresentando inclusive um formulário pré-preenchido para as atas.</p>
 
 <h3>Solução apresentada:</h3>
 <p>- Criamos uma plataforma que simplifica o agendamento e a gestão de reuniões, permitindo a integração com o Zoom e o controle de pautas e permissões dos usuários, tudo isso em uma interface intuitiva e integrada.</p>
@@ -193,3 +192,39 @@ Repositório: https://github.com/MirageGroup/API_MirageGroup_4sem
   <li>Comunicação clara e objetiva, durante todo o projeto, me manti comunicativo, sempre avisando as minhas dificuldades e entregas.</li>
 </ul>
 </details>
+
+<details>
+<summary>API 5° Semestre</summary>
+<h3>Projeto do quinto semestre: Clima Monitor</h3>
+Repositório: https://github.com/MirageGroup/API_MirageGroup_5_Semestre
+<br></br>
+<strong>Cliente:</strong> Kersys
+<br></br>
+<strong>Professores responsáveis:</strong> M2: Jean Carlos P2: Gerson da Penha
+<hr>
+<h3> Desafio proposto: </h3> 
+<p>- A problemática apresentada para os alunos, foi que os clientes da Kersys, na sua maioria cultivadores, não tinham uma forma de acompanhar as suas plantações, entender se o clima estaria favorável para aquela localidade, tanto no dia atual, quanto no histórico geral. O nosso desafio foi desenvolver um aplicativo para auxiliar os produtores rurais a acompanhar o histórico das variações das informações climáticas de uma determinada lavoura, ponto. O aplicativo deve permitir aos usuários cadastrar seus pontos, e acompanhar via gráficos a variação da pluviometria e da temperatura a partir de uma data informada, até a data atual.</p>
+
+<h3>Solução apresentada:</h3>
+<p>- Como solução, desenvolvemos um aplicativo que permite os usuários a monitorarem localizações específicas cadastradas dentro do próprio aplicativo, nele o usuário pode acompanhar a temperatura atual, todo histórico de variações climáticas e também definir pontos de alertar, a depender da pluviometria e temperatura.
+</p>
+<hr>
+<h3>Minhas contribuições:</h3>
+<p>- Nesse projeto, fui responsável pelo frontend do projeto, ou seja, estava responsável pela estruturação das telas e integração com as rotas do backend.</p>
+<p>- Em quesito desenvolvimento, fui responsável pela integração com a API Open-meteo, que busca todos os dados a partir das coordenadas passadas pelo usuário, além disso fiquei responsável pelo Login do usuário, tela home e mapa interativo, que o cliente pode selecionar uma coordenada diretamente no mapa.</p>
+<hr>
+<h3>Hard Skills:</h3>
+<ul>
+  <li>React Native: Framework base do projeto, responsável pela renderização do aplicativo mobile, tanto em Android quanto IOS.</li>
+  <p>Nível de proficiência: Uso com independência.</p>
+  <li>TypeScript: Tecnologia base, realizando toda a lógica de nosso projeto.</li>
+  <p>Nível de proficiência: Uso com independência.</p>
+  <li>MySQL: O MYSQL foi nosso banco de dados utilizado no proejeto, para armazenamento de dados.</li>
+  <p>Nível de proficiência: Uso com ajuda.</p>
+</ul>
+<h3>Soft Skills:</h3>
+<ul>
+  <li>Durante essa API estava como o principal responsável pelo frontend, devido a minha maior proficiência no assunto, visto isso, fui responsável por organizar como ficaria a estrutura do dev team em relação ao front, propondo reuniões do pessoal do frontend para ficarmos por dentro de como estava o andamento do produto e se alguém precisava de alguma ajuda no momento, em diversos momentos das sprints pude ajudar meus colegas.</li>
+</ul>
+</details>
+
